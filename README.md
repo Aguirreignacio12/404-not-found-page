@@ -41,10 +41,6 @@
 - Layout grid and flexbox
 - I added translation and rotation animation to the image, to the button change color to the text and shadow when hovering.
 
-<div align="center">
-  - Demo Link:  <a href=href="https://404-not-found-page-seven.vercel.app/" target="_blank">404-not-found-page</a>
-</div>
-
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
